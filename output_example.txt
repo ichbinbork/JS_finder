@@ -1,0 +1,67 @@
+hidden_finder.py
+Javascript found on line 138 in source code
+Found /flasgger_static/swagger-ui-bundle.js
+https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Possible Javascript Injection in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Look at the eval() function parameters. If parameters has user input, it is vulnerable to javascript injection
+Possible payloads: eval(document.cookie), eval(document.domain), eval(document.location)
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval  
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Possible payloads: window.location = 'https://www.attecker_website.com'
+Might cause Open redirection vulnerability in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+More info at https://developer.mozilla.org/en-US/docs/Web/API/Window/location
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+setRequestHeader in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js        
+Possible payloads: xhr.setRequestHeader('X-Forwarded-For', ')
+More info at https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader       
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Javascript found on line 139 in source code
+Found /flasgger_static/swagger-ui-standalone-preset.js
+https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+Possible Javascript Injection in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+Look at the eval() function parameters. If parameters has user input, it is vulnerable to javascript injection
+Possible payloads: eval(document.cookie), eval(document.domain), eval(document.location)
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval  
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+Possible payloads: window.location = 'https://www.attecker_website.com'
+Might cause Open redirection vulnerability in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+More info at https://developer.mozilla.org/en-US/docs/Web/API/Window/location
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js   
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js   
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Javascript found on line 140 in source code
+Found /flasgger_static/lib/jquery.min.js
+https://httpbin.org/flasgger_static/lib/jquery.min.js
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Possible Javascript Injection in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Look at the eval() function parameters. If parameters has user input, it is vulnerable to javascript injection
+Possible payloads: eval(document.cookie), eval(document.domain), eval(document.location)
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval  
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+setRequestHeader in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Possible payloads: xhr.setRequestHeader('X-Forwarded-For', ')
+More info at https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader       
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+JSON.parse in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Possible payloads: JSON.parse('string')
+More info at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+Might be dangerous function in javascript file https://httpbin.org/flasgger_static/lib/jquery.min.js
+Javascript found on line 141 in source code
